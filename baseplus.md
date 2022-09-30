@@ -3934,7 +3934,7 @@ The basic syntax is the following, the `<...>` means optional parameters:
 
 ## License ####################################################################
 
-Copyright (c) 2020 Bartosz Jablonski
+Copyright (c) since 2020 Bartosz Jablonski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
