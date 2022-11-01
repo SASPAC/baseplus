@@ -77,6 +77,8 @@ Kudos to all who inspired me to generate this package:
 *Michal Ludwicki*,
 *Quentin McMullen*.
 
+Recording from the SAS Explore 2022 conference: [A BasePlus Package for SAS](https://communities.sas.com/t5/SAS-Explore-Presentations/A-BasePlus-Package-for-SAS/ta-p/838246 "A BasePlus Package for SAS") (September 27th-29th, 2022).
+
 ---
 
 ### BASIC EXAMPLES AND USECASES: ####################################################
