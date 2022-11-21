@@ -24,6 +24,6 @@ format x bool.;
 ```
 and more.
 
-SHA256 digest for the latest version of `BasePlus`: A80006D3C1409465E49F383D08F2F3AF1E33D6A67D71A8CAF29747ADC917E2E4
+SHA256 digest for the latest version of `BasePlus`: EBA9EDB3D50D854288970CC0E965DA6AD5B057F6E6433EEBEC4A02B9A25CF6E2
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
