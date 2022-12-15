@@ -21,9 +21,11 @@ format x bool.;
 %rainCloudPlot(sashelp.cars,DriveTrain,Invoice)
 
 %zipLibrary(sashelp,libOut=work)
+
+%bpPIPE(ls -la ~/)
 ```
 and more.
 
-SHA256 digest for the latest version of `BasePlus`: D8DBB7CC5952331FA59FEBBBDD15BC543FE3C89A8BA9150FE6AF5E412868EBE7
+SHA256 digest for the latest version of `BasePlus`: A6F1977DC4EC22A39DDC7BCE68CF562AF54351A3D385D488EC3067B5A7C0F3CB
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
