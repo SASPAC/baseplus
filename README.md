@@ -29,3 +29,5 @@ and more.
 SHA256 digest for the latest version of `BasePlus`: A6F1977DC4EC22A39DDC7BCE68CF562AF54351A3D385D488EC3067B5A7C0F3CB
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
+
+To work with a package use the [**SAS Packages Framework**](https://github.com/yabwon/SAS_PACKAGES/blob/main/README.md "SPFinit").
