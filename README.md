@@ -23,10 +23,12 @@ format x bool.;
 %zipLibrary(sashelp,libOut=work)
 
 %bpPIPE(ls -la ~/)
+
+%dirsAndFiles(C:\SAS_WORK\,ODS=work.result)
 ```
 and more.
 
-SHA256 digest for the latest version of `BasePlus`: A6F1977DC4EC22A39DDC7BCE68CF562AF54351A3D385D488EC3067B5A7C0F3CB
+SHA256 digest for the latest version of `BasePlus`: F*AD0B78F94A6FD1C394999CBBC8DD16017FB06DFC3FA1F51AC17B43AC8F517432
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
 
