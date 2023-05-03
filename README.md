@@ -29,14 +29,26 @@ format x bool.;
 %put %repeatTxt(#,15,s=$) HELLO SAS! %repeatTxt(#,15,s=$);
 
 %put %intsList(42);
+%put %letters(1:26:1);
 
 %splitDSIntoBlocks(5, sashelp.class, classBlock)
 
 %splitDSIntoParts(7, sashelp.cars, carsPart)
+
+filename f temp;
+%put %filePath(f);
+
+%put %libPath(WORK);
+
+libname NEW "%workPath()/new";
+
+%put %translate(%str("A", "B", "C"),%str(%",),%str(%' ));
+
+%put %tranwrd(Miss Joan Smith,Miss,Ms.);
 ```
 and more.
 
-SHA256 digest for the latest version of `BasePlus`: F*625E56B017C4AA8D436959C0A03C8503773A9A3823D43FA9E0326276E52DA6F2
+SHA256 digest for the latest version of `BasePlus`: F*B297440903337E1AE6F12A6001B80B8AB743079847D16D63DF1C649AE51AA411
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
 
