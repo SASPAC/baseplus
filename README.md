@@ -45,10 +45,12 @@ libname NEW "%workPath()/new";
 %put %translate(%str("A", "B", "C"),%str(%",),%str(%' ));
 
 %put %tranwrd(Miss Joan Smith,Miss,Ms.);
+
+%put %date() %time() %datetime();
 ```
 and more.
 
-SHA256 digest for the latest version of `BasePlus`: F*B91771D45C781B6806DBB44A3B491A0784D7698B9F3BBBE1A86EE5594834315F
+SHA256 digest for the latest version of `BasePlus`: F*7EF23E80A2C03B29402183D97ECFF608B62BEDD9458848709B52DC362E6201B9
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
 
