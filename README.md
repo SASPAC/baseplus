@@ -47,10 +47,12 @@ libname NEW "%workPath()/new";
 %put %tranwrd(Miss Joan Smith,Miss,Ms.);
 
 %put %date() %time() %datetime();
+
+%put %monthShift(2023,1,-5);
 ```
 and more.
 
-SHA256 digest for the latest version of `BasePlus`: F*7EF23E80A2C03B29402183D97ECFF608B62BEDD9458848709B52DC362E6201B9
+SHA256 digest for the latest version of `BasePlus`: F*81EF4FA7E1D9363A991B686F38C6569FFB22024CB9C67A9395EEF6D4257D508E
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
 
