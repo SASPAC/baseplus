@@ -52,7 +52,7 @@ libname NEW "%workPath()/new";
 ```
 and more.
 
-SHA256 digest for the latest version of `BasePlus`: F*3407AD8068C7528E129034144F9A44CFDF14B7DC34334C64C2F1D67351D1E01E
+SHA256 digest for the latest version of `BasePlus`: F*6214654B4575DC8E4BA3CF032924862C2F69A03A6384872BAA9F774EDF6A8DDA
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
 
