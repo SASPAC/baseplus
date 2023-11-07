@@ -45,7 +45,7 @@
   * [`%RainCloudPlot()` macro](#raincloudplot-macro)
   * [`%zipLibrary()` macro](#ziplibrary-macro)
   * [`%unzipLibrary()` macro](#unziplibrary-macro)
-  * [`%unzipArch()` macro](#unzipatch-macro)
+  * [`%unzipArch()` macro](#unziparch-macro)
   * [`%LDSN()` macro](#ldsn-macro)
   * [`%LDsNm()` macro](#ldsnm-macro)
   * [`%LVarNm()` macro](#lvarnm-macro)
