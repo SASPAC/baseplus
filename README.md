@@ -48,11 +48,13 @@ libname NEW "%workPath()/new";
 
 %put %date() %time() %datetime();
 
+%put %date(yymmddn10.) %time(time5.) %datetime(e8601dt.);
+
 %put %monthShift(2023,1,-5);
 ```
 and more.
 
-SHA256 digest for the latest version of `BasePlus`: F*BCD89EDF856762EB8E441BC53933774483258453D1F7D74185F8A1861E414B0E
+SHA256 digest for the latest version of `BasePlus`: F*B9F1B3243FD3956F0B68652C21EA1EBC19F3EB0931774A57FECE1F02A9448108
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
 
