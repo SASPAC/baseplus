@@ -51,10 +51,12 @@ libname NEW "%workPath()/new";
 %put %date(yymmddn10.) %time(time5.) %datetime(e8601dt.);
 
 %put %monthShift(2023,1,-5);
+
+%put #%expandDataSetsList(lib=sashelp,datasets=_all_)#;
 ```
 and more.
 
-SHA256 digest for the latest version of `BasePlus`: F*68BB953CD732EB43119A3339656670292317FE1C3B764EC57484C7D5C9DF23EB
+SHA256 digest for the latest version of `BasePlus`: F*0730DD793516E5C193842126A7EC9D339ADADD19F0F40B071F938CABDE4E66AD
 
 [**Documentation for BasePlus**](./baseplus.md "Documentation for BasePlus")
 
